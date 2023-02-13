@@ -1,0 +1,21 @@
+#frame {
+ 	width: 500px;
+	height: 500px;
+}
+
+line {
+	stroke: darkblue;
+	stroke-width: 10px;
+}
+
+.makeRed { 
+	stroke: red;
+}
+
+.makeOrange {
+	fill: orangered;
+}
+
+body {
+	align-content: cneter;	
+}
